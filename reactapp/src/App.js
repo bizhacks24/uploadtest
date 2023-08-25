@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <strong>Upload React App to Hostinger VPS for testing ...  </strong>
+           <strong>Let's Upload React Project with Git Repo to Hostinger VPS</strong>
         </p>
         <a
           className="App-link"
